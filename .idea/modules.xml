@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enumerations-composition/Enumerations-composition.iml" filepath="$PROJECT_DIR$/Enumerations-composition/Enumerations-composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" filepath="$PROJECT_DIR$/introduction-to-oop/introduction-to-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop/introduction-to-oop-2/introduction-to-oop-2.iml" filepath="$PROJECT_DIR$/introduction-to-oop/introduction-to-oop-2/introduction-to-oop-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction-to-oop2/introduction-to-oop2.iml" filepath="$PROJECT_DIR$/introduction-to-oop2/introduction-to-oop2.iml" />
